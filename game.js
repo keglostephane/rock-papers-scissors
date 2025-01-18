@@ -110,5 +110,3 @@ function playGame () {
 
   console.log(`Score - You: ${humanScore}\t Computer: ${computerScore}`)
 }
-
-playGame()
